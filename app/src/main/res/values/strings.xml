@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="task_name">task name</string>
+    <string name="my_day">my day</string>
+    <string name="add">add</string>
+</resources>
